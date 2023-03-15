@@ -1,0 +1,171 @@
+.team {
+  font-size: 16px;
+  color: #282828;
+  text-align: center;
+  margin-top: 80px;
+}
+
+.clonify {
+  font-size: 54px;
+  color: #282828;
+  text-align: center;
+  margin-top: 4px;
+}
+
+.title {
+  font-size: 20px;
+  color: #5f6980;
+  margin-top: 16px;
+  height: 70px;
+  width: 760px;
+  text-align: center;
+  margin-left: 380px;
+}
+
+.line1 {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-top: 48px;
+}
+
+.people {
+  background-color: #ffffff;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #eaecf0;
+  width: 310px;
+  height: 430px;
+}
+
+.line2 {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-top: 48px;
+}
+
+.names {
+  color: #282828;
+  font-size: 18px;
+  margin-left: 16px;
+  margin-top: 16px;
+}
+
+.software {
+  color: #3e3e59;
+  font-size: 14px;
+  margin-left: 16px;
+  margin-top: 8px;
+}
+
+.aviable {
+  color: #5f6980;
+  font-size: 14px;
+  width: 278px;
+  height: 44px;
+  margin-left: 16px;
+  margin-top: 8px;
+}
+
+.fonts {
+  margin-top: 30px;
+}
+
+.fa-twitter {
+  margin-left: 40px;
+}
+
+.fa-instagram {
+  margin-left: 40px;
+}
+
+.fa-facebook-f {
+  margin-left: 30px;
+}
+
+.divfooter {
+  width: 1519px;
+  height: 512px;
+  margin-top: 48px;
+  background: rgba(83, 83, 83, 0.33);
+}
+
+.imglogo {
+  margin-left: 50px;
+  margin-top: 108px;
+}
+
+.footerp {
+  color: #535353;
+  font-size: 14px;
+  width: 306.05px;
+  height: 73px;
+  margin-left: 52px;
+  margin-top: 30px;
+}
+
+.iconfb {
+  margin-left: 52px;
+  margin-top: 30px;
+}
+
+.iconin {
+  margin-left: 15px;
+}
+
+.iconlin {
+  margin-left: 15px;
+}
+
+.footerh1 {
+  color: #1e1e1e;
+  font-size: 20px;
+  margin-left: 527px;
+  margin-top: -220px;
+  margin-bottom: 75px;
+}
+
+.footerul li {
+  font-size: 14px;
+  color: #535353;
+  margin-left: 527px;
+  margin-top: 25px;
+}
+
+.footerh12 {
+  color: #1e1e1e;
+  font-size: 20px;
+  margin-left: 927px;
+  margin-top: -194px;
+  margin-bottom: 75px;
+}
+
+.footerol li {
+  font-size: 14px;
+  color: #535353;
+  margin-left: 927px;
+  margin-top: 25px;
+}
+
+.languages {
+  color: #1e1e1e;
+  font-size: 20px;
+  margin-left: 1300px;
+  margin-top: -200px;
+  margin-bottom: 75px;
+}
+
+.squear {
+  background-color: #054a68;
+  width: 80px;
+  height: 45px;
+  margin-left: 1300px;
+  display: flex;
+  align-items: center;
+}
+
+.insidetext {
+  color: white;
+  margin-left: 15px;
+}
